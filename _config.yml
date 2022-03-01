@@ -36,6 +36,8 @@ paginate: 5
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
 
+google_analytics: G-M002R1SLFT
+
 # Build settings
 theme: minima
 plugins:
