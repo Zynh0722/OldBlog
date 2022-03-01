@@ -63,4 +63,4 @@ Polar coordinates are a powerful tool for converting from Polar coordinates radi
 and y
 
 <img style="margin:auto; display:block;" src="/assets/Polar-Cartesian-Coordinates-Feature.png">
-_Image shamelessly ripped from [Linear motion tips](https://www.linearmotiontips.com/motion-basics-difference-between-cartesian-and-polar-coordinate-systems/)_
+<emph style="text-align:center; display:block;">Image shamelessly ripped from <a href="https://www.linearmotiontips.com/motion-basics-difference-between-cartesian-and-polar-coordinate-systems/">Linear motion tips</a></emph>
