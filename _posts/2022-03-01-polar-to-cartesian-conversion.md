@@ -15,7 +15,7 @@ x and y will find you along the circles edge, curses to the cartesian lords.
 Hail be the wonderful forces of pre-calculus teachers the world over. Polar coordinates are what we want!
 They allow us to define an angle and a radius to identify a point in 2D space, rather than x and y.
 
-But how do we use this wonderful coordinate system on a webpage?//
+But how do we use this wonderful coordinate system on a webpage?\\
 Wellllll, that's the catch. You can't directly. However all of the tools necessary to
 convert from Polar coordinates to cartesian coordinates are available in native javascript.
 
