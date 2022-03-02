@@ -21,7 +21,7 @@ convert from Polar coordinates to cartesian coordinates are available in native 
 
 The only tools needed for the conversion are `Math.cos()`, `Math.sin()` and a circle constant, which is a
 whole discussion I'd be willing to have, but we don't have `Math.TAU` yet, so at the top of our file
-we will use `Math.TAU = 2*Math.PI` as it makes our equations cleaner.
+we will use `Math.TAU = 2*Math.PI` as it makes our equations cleaner. [Tau manifesto](https://tauday.com/tau-manifesto)
 
 For any polar coordinate where `r = radius` and `theta = angle` then we can convert to cartesian as simply
 as;
