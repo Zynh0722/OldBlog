@@ -38,7 +38,7 @@ Lets say we want to get the center positions of 20 circles arranged in a circle 
 <iframe style="width:400px; height:450px; overflow:hidden; margin:auto; display:block" scrolling="no" frameborder="  o" src="https://editor.p5js.org/Zynh0722/full/d6GHn4dXp"></iframe>
 _CSS note: to center this iframe I had to explicitly declare `display:block` and use `margin:auto`_
 
-All we need to do is divide the number of radians in a circle by 20, to get the angle at each increment evenly spaced appart.
+All we need to do is divide the number of radians in a circle by 20, to get the angle at each increment evenly spaced apart.
 Then loop through those increments and draw circles.
 
 {% highlight javascript %}
