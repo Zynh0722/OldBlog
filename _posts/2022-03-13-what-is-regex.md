@@ -168,3 +168,4 @@ but only if you already know how to use it!
 
 [RegExr](https://regexr.com/) - An amazing tool for creating regex strings\\
 [MDN Regex Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - MDNs own docs for using regex with javascript
+[JSFiddle with all of the above code](https://jsfiddle.net/zynh0722/rfqghpyz/19/)
