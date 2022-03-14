@@ -6,7 +6,7 @@ author: Zynh Ludwig
 ---
 
 Regex, or Regular Expressions are patterns used to match character combinations
-in strings. In Javascript we can use these patterns in a variety of methods in `RegExp` and `String`
+in strings. In Javascript we can use these patterns in a variety of methods in the `RegExp` and `String`
 objects
 
 But a high level definition isn't helpful to anyone, so let's look at how we make a regular expression;
